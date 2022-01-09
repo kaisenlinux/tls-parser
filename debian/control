@@ -3,7 +3,7 @@ Section: python
 Priority: optional
 Maintainer: Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>
 Build-Depends: debhelper-compat (= 13), dh-python, python3-all, python3-setuptools
-Standards-Version: 4.5.1
+Standards-Version: 4.6.0
 Homepage: https://github.com/nabla-c0d3/tls_parser
 Vcs-Browser: https://gitlab.com/kaisenlinux/packages/tls-parser
 Vcs-Git: https://gitlab.com/kaisenlinux/packages/tls-parser.git
