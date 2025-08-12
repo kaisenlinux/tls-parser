@@ -1,3 +1,9 @@
+tls-parser (2.0.2-1kaisen) kaisen-packages; urgency=medium
+
+  * Import 2.0.2 version
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Sat, 09 Aug 2025 21:13:58 +0100
+
 tls-parser (2.0.1-1kaisen) kaisen-packages; urgency=medium
 
   * Import 2.0.1 version
